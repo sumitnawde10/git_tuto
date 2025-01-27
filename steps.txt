@@ -1,0 +1,12 @@
+git status
+git init
+git config --global user.email "email"
+git add .
+git commit -m "message"
+git log
+
+git remote add origin igt@github.com:'SSH link"
+### git branch -M main
+git push -u origin master/main
+git pull origin master/main
+
